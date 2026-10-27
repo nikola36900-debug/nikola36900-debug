@@ -1,153 +1,123 @@
-<!--
-  🌟 Modern GitHub Profile README
-  Theme: Tokyo Night • Glassmorphism • Neon Accents
-  All widgets are auto-generated – no manual updates needed.
--->
+<!-- ═══════════════════════════════════════════════════════════════
+     Priyas Sarkar · Profile README
+     Theme: Ember  ·  Palette: #0d1117 / #f78166 / #ffa657 / #8b949e
+     ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ===== HERO BANNER ===== -->
-<a href="https://github.com/nikola36900-debug">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Priyas%20Sarkar&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,f78166&height=210&section=header&text=Priyas%20Sarkar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%C2%B7%20Cloud%20%C2%B7%20ML%20%C2%B7%20Creative%20Tech&descAlignY=58&descSize=15&descColor=8b949e" alt="Priyas Sarkar" />
 
-<!-- ===== ANIMATED TAGLINE ===== -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Cloud+%26+ML+Enthusiast;Creative+Technologist;Always+Shipping+Something+New" alt="Typing SVG" />
-</a>
+### I build useful, beautiful, slightly unexpected software.
 
-<!-- ===== SOCIAL BADGES (LINKS FIXED) ===== -->
-<p>
-  <a href="https://discord.gg/ADzwHePF" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://www.facebook.com/share/1CUcppBtyD/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/starline.complex" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/priyas-sarkar-03040642a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://youtube.com/@starline.complex" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/priyas-sarkar-03040642a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://discord.gg/ADzwHePF"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
+<a href="https://www.instagram.com/starline.complex"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+<a href="https://youtube.com/@starline.complex"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
+<a href="https://www.facebook.com/share/1CUcppBtyD/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Craft
+
+<table>
+  <tr>
+    <td align="right" width="22%"><sub><b>LANGUAGES</b></sub></td>
+    <td><code>C</code> · <code>C++</code> · <code>PHP</code> · <code>JavaScript</code> · <code>HTML5</code> · <code>MySQL</code></td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>CLOUD & INFRA</b></sub></td>
+    <td><code>AWS</code> · <code>Cloudflare</code> · <code>Vercel</code> · <code>Netlify</code> · <code>Apache</code> · <code>Kafka</code></td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>DATA & ML</b></sub></td>
+    <td><code>PyTorch</code> · <code>NumPy</code> · <code>Pandas</code> · <code>Matplotlib</code> · <code>DynamoDB</code></td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>CREATIVE & IOT</b></sub></td>
+    <td><code>Adobe Suite</code> · <code>After Effects</code> · <code>Arduino</code> · <code>Appwrite</code></td>
+  </tr>
+</table>
+
+---
+
+## 📊 Signals
 
 <div align="center">
 
-<!-- ===== MODERN SKILL ICONS (auto-themed, dark background) ===== -->
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,php,html,js,mysql&theme=dark&perline=6" alt="Languages" />
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikola36900-debug&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f78166&icon_color=ffa657&text_color=8b949e&include_all_commits=true&count_private=true&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikola36900-debug&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f78166&text_color=8b949e&langs_count=8" />
+
+<br/><br/>
+
+<img height="170em" src="https://streak-stats.demolab.com?user=nikola36900-debug&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=f78166&fire=ffa657&currStreakLabel=ffa657&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
+
+</div>
+
+---
+
+## 📈 Flow
+
+<div align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=nikola36900-debug&bg_color=0d1117&color=8b949e&line=f78166&point=ffa657&area=true&area_color=f78166&hide_border=true&custom_title=Contribution%20Activity" />
+</div>
+
+---
+
+## 🏆 Milestones
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nikola36900-debug&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" />
+</div>
+
+---
+
+## 🔭 Currently
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <sub><b>🛠 BUILDING</b></sub><br/>
+      Full-stack apps with PHP + JavaScript, deployed on AWS & Cloudflare
+    </td>
+    <td width="33%" valign="top">
+      <sub><b>📚 LEARNING</b></sub><br/>
+      Deep learning with PyTorch · distributed systems with Kafka
+    </td>
+    <td width="34%" valign="top">
+      <sub><b>🎨 EXPLORING</b></sub><br/>
+      Creative coding with Arduino · motion design in After Effects
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><sub><b>💼 &nbsp;More about me</b></sub></summary>
 
 <br/>
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,cloudflare,vercel,netlify,apache,kafka&theme=dark&perline=6" alt="Cloud & Infra" />
-</a>
+- 🌱 Deepening my knowledge in **cloud-native architecture** and **applied ML**
+- 🤝 Open to collaborating on **open-source tools**, **automation**, or **creative tech**
+- 💬 Ask me about **C/C++**, **PHP**, **AWS**, or **PyTorch**
+- ⚡ Fun fact: I like making old hardware (Arduino) talk to modern cloud services
 
-<br/>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=pytorch,numpy,pandas,matplotlib,arduino&theme=dark&perline=5" alt="ML & IoT" />
-</a>
-
-<br/>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=dynamodb,appwrite,adobe,ae&theme=dark&perline=4" alt="Data & Creative" />
-</a>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<!-- ===== GLASSMORPHISM STATS CARD (self-hostable, Tokyo Night theme) ===== -->
-<a href="https://gitglance-eight.vercel.app/api/combined?username=nikola36900-debug&style=glass&theme=tokyonight&hide_border=true&border_radius=20" target="_blank">
-  <img height="180em" src="https://gitglance-eight.vercel.app/api/combined?username=nikola36900-debug&style=glass&theme=tokyonight&hide_border=true&border_radius=20" alt="GitHub Stats & Top Languages" />
-</a>
-
-<!-- ===== STREAK CARD ===== -->
-<a href="https://streak-stats.demolab.com?user=nikola36900-debug&theme=tokyonight&hide_border=true&border_radius=20&date_format=M%20j%5B%2C%20Y%5D" target="_blank">
-  <img height="180em" src="https://streak-stats.demolab.com?user=nikola36900-debug&theme=tokyonight&hide_border=true&border_radius=20&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</a>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<!-- ===== ACTIVITY GRAPH (last 31 days) ===== -->
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph" target="_blank">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nikola36900-debug&theme=tokyo-night&hide_border=true&area=true&area_color=7AA2F7&line=7AA2F7&point=BB9AF7" alt="Activity Graph" />
-</a>
-
-</div>
-
----
-
-## 🏆 Trophies & Highlights
-
-<div align="center">
-
-<!-- ===== GITHUB TROPHIES (Tokyo Night palette) ===== -->
-<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikola36900-debug&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</a>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<!--
-  ⚙️ SETUP REQUIRED:
-  This snake animation needs a GitHub Action to run.
-  1. Fork https://github.com/Platane/snk
-  2. Enable the workflow in your repo.
-  3. Replace the URL below with your own generated snake SVG.
--->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikola36900-debug/nikola36900-debug/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikola36900-debug/nikola36900-debug/output/github-contribution-grid-snake.svg" />
-  <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/nikola36900-debug/nikola36900-debug/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
----
-
-## 💡 Philosophy
-
-<div align="center">
-  <em>“Build things that are useful, beautiful, and slightly unexpected.”</em>
-</div>
+</details>
 
 ---
 
 <div align="center">
 
-<!-- ===== VISITOR COUNTER ===== -->
-<img src="https://komarev.com/ghpvc/?username=nikola36900-debug&icon=0&color=7AA2F7&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=nikola36900-debug&style=flat-square&color=f78166&label=Profile%20Views" />
+
+<br/><br/>
+
+<a href="https://github.com/nikola36900-debug?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_Repositories-0d1117?style=for-the-badge&logo=github&logoColor=f78166&labelColor=0d1117" />
+</a>
+
+<br/><br/>
+
+<sub>「 Build · Learn · Repeat 」</sub>
 
 </div>
-
-<!-- Proudly rebuilt with a Tokyo Night glassmorphism aesthetic -->
