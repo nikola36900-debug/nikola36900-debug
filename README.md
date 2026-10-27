@@ -1,37 +1,37 @@
 <!--
   🌟 Modern GitHub Profile README
-  Theme: Tokyo Night • Glassmorphism • Neon Accents
+  Theme: Tokyo Night content · Black/Gray hero & footer · Minimal icon socials
   All widgets are auto-generated – no manual updates needed.
 -->
 
 <div align="center">
 
-<!-- ===== HERO BANNER ===== -->
+<!-- ===== HERO BANNER (black → gray, twinkling) ===== -->
 <a href="https://github.com/nikola36900-debug">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Priyas%20Sarkar&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000,333333&height=220&section=header&text=Priyas%20Sarkar&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
 </a>
 
-<!-- ===== ANIMATED TAGLINE ===== -->
+<!-- ===== ANIMATED TAGLINE (gray) ===== -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Cloud+%26+ML+Enthusiast;Creative+Technologist;Always+Shipping+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=AAAAAA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Cloud+%26+ML+Enthusiast;Creative+Technologist;Always+Shipping+Something+New" alt="Typing SVG" />
 </a>
 
-<!-- ===== SOCIAL BADGES (LINKS FIXED) ===== -->
+<!-- ===== MODERN ICON-ONLY SOCIALS ===== -->
 <p>
-  <a href="https://discord.gg/ADzwHePF" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://discord.gg/ADzwHePF" target="_blank" title="Discord">
+    <img src="https://img.shields.io/badge/-%20-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="34" />
   </a>
-  <a href="https://www.facebook.com/share/1CUcppBtyD/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  <a href="https://www.facebook.com/share/1CUcppBtyD/" target="_blank" title="Facebook">
+    <img src="https://img.shields.io/badge/-%20-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="34" />
   </a>
-  <a href="https://www.instagram.com/starline.complex" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.instagram.com/starline.complex" target="_blank" title="Instagram">
+    <img src="https://img.shields.io/badge/-%20-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="34" />
   </a>
-  <a href="https://www.linkedin.com/in/priyas-sarkar-03040642a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/priyas-sarkar-03040642a" target="_blank" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="34" />
   </a>
-  <a href="https://youtube.com/@starline.complex" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  <a href="https://youtube.com/@starline.complex" target="_blank" title="YouTube">
+    <img src="https://img.shields.io/badge/-%20-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="34" />
   </a>
 </p>
 
@@ -74,14 +74,19 @@
 
 <div align="center">
 
-<!-- ===== GLASSMORPHISM STATS CARD (self-hostable, Tokyo Night theme) ===== -->
-<a href="https://gitglance-eight.vercel.app/api/combined?username=nikola36900-debug&style=glass&theme=tokyonight&hide_border=true&border_radius=20" target="_blank">
-  <img height="180em" src="https://gitglance-eight.vercel.app/api/combined?username=nikola36900-debug&style=glass&theme=tokyonight&hide_border=true&border_radius=20" alt="GitHub Stats & Top Languages" />
+<!-- ===== STATS CARD (canonical, reliable source) ===== -->
+<a href="https://github.com/nikola36900-debug" target="_blank">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikola36900-debug&theme=tokyonight&hide_border=true&border_radius=20&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </a>
+<a href="https://github.com/nikola36900-debug?tab=repositories" target="_blank">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikola36900-debug&theme=tokyonight&hide_border=true&border_radius=20&layout=compact&langs_count=8" alt="Top Languages" />
+</a>
+
+<br/><br/>
 
 <!-- ===== STREAK CARD ===== -->
 <a href="https://streak-stats.demolab.com?user=nikola36900-debug&theme=tokyonight&hide_border=true&border_radius=20&date_format=M%20j%5B%2C%20Y%5D" target="_blank">
-  <img height="180em" src="https://streak-stats.demolab.com?user=nikola36900-debug&theme=tokyonight&hide_border=true&border_radius=20&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img height="170em" src="https://streak-stats.demolab.com?user=nikola36900-debug&theme=tokyonight&hide_border=true&border_radius=20&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </a>
 
 </div>
@@ -143,11 +148,23 @@
 
 ---
 
+## ✨ Thanks for stopping by
+
 <div align="center">
+
+<!-- ===== LOWER-SITE ANIMATION: closing tagline ===== -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=808080&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let%27s+build+something+together;Star+a+repo+if+you+like+my+work" alt="Closing Typing SVG" />
+</a>
+
+<br/>
 
 <!-- ===== VISITOR COUNTER ===== -->
 <img src="https://komarev.com/ghpvc/?username=nikola36900-debug&icon=0&color=7AA2F7&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
-<!-- Proudly rebuilt with a Tokyo Night glassmorphism aesthetic -->
+<!-- ===== FOOTER WAVE (black → gray) ===== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000,333333&height=120&section=footer&animation=fadeIn" width="100%" />
+
+<!-- Proudly rebuilt · Tokyo Night content · black/gray hero & footer · icon-only socials -->
